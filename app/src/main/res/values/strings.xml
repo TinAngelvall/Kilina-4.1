@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kilina-4.1</string>
+    <string name="input_Money">Ввод денег</string>
+    <string name="input_Info">Информация об оплате</string>
+    <string name="btnOK">Ок</string>
+    <string name="bankCardChkBx">С банковской карты</string>
+    <string name="mobilePhoneChkBx">С мобильного телефона</string>
+    <string name="cashAddressChkBx">Наличными по адресу</string>
+    <string name="IsCheckedChkBx">Выбранный тип оплаты: \n  %1$s</string>
+
+</resources>
